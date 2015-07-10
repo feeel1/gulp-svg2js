@@ -42,3 +42,5 @@ Html разметка.
 ```html
 <div class="icon icon--phone icon--size-m icon--actions-phone"><svg class="icon__cnt"><use xlink:href="#icon-phone"/></svg></div>
 ```
+--------
+Рабочий пример https://github.com/feeel1/gulp-svg-symbol
