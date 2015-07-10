@@ -1,0 +1,1 @@
+# gulp-svg2js
