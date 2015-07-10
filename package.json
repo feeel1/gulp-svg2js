@@ -1,5 +1,5 @@
 {
-  "name": "gulp-svg-sprite-script",
+  "name": "gulp-svg2js",
   "version": "0.0.1",
   "description": "svg2js",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:feeel1/gulp-svg2js.git"
+    "url": "https://github.com/feeel1/gulp-svg2js"
   },
   "dependencies": {
     "gulp-util": "~2.2.10",
