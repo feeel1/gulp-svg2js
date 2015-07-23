@@ -163,6 +163,8 @@ function svg2js (opts) {
         '<head>'+
           '<meta charset="UTF-8">'+
           '<title>Icons preview</title>'+
+          '<script type="text/javascript" src="js/jquery-2.1.1.js"></script>'+
+          '<script type="text/javascript" src="js/jquery.browser.min.js"></script>'+
           '<script>'+ script +'</script>'+
           '<style>html {font-family: sans-serif;} .Preview {display: inline-block; margin: 1em; text-align: center; vertical-align: top;}</style>'+
         '</head>'+
